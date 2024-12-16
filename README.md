@@ -55,11 +55,6 @@ The output will be shown every 30s and it will include:
 
 ## Credits
 Created by <a href="https://github.com/nowinoa">Ainhoa Prada</a>.
-The following third-party assets were used:
-
-* React
-* Bootstrap
-* Font Awesome
 
 ## License
 This project is under MIT license
